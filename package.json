@@ -32,7 +32,7 @@
     "@sailshq/express": "^3.21.3",
     "@sailshq/lodash": "^3.10.4",
     "anchor": "~0.10.5",
-    "async": "1.5.2",
+    "async": "2.6.4",
     "captains-log": "2.0.3",
     "chalk": "4.1.0",
     "commander": "2.9.0",
